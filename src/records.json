@@ -1,0 +1,19 @@
+{
+  "Records": [
+    {
+      "id": 1,
+      "icon": "path/to/icon1.jpg",
+      "imageAlt": "Alt text 1",
+      "title": "Title 1",
+      "description": "Description 1"
+    },
+    {
+      "id": 2,
+      "icon": "path/to/icon2.jpg",
+      "imageAlt": "Alt text 2",
+      "title": "Title 2",
+      "description": "Description 2"
+    },
+    // ... more records
+  ]
+}
